@@ -7,7 +7,6 @@ IMPORTANT: As pa
 ----
 $ git clone git@github.com:piyush1594/dummy-project-6625084
 
-$ cd dummy-project-6625084
 
 $ mvn compile vertx:run
 ----
