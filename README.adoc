@@ -1,6 +1,6 @@
 = Health Check - Eclipse Vert.x Booster
 
-IMPORTANT: While you can run and interact with this booster on localhost, you cannot take advantage of using the health check functionality wit
+IMPORTANT
 
 
 IMPORTANT: As pa
